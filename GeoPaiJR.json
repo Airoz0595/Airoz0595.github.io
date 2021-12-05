@@ -18,5 +18,23 @@
     "controllerid2": "rbxassetid://8168537144",
     "side": 1,
     "sideid1": "rbxassetid://8168517682"
+  },
+  {
+    "number": 2,
+    "route": "K73SY",
+    "front": 1,
+    "frontid1": "rbxassetid://8168543329",
+    "controllerid1": "rbxassetid://8177835415",
+    "side": 1,
+    "sideid1": "rbxassetid://8168415123"
+  },
+  {
+    "number": 3,
+    "route": "K73SZ",
+    "front": 1,
+    "frontid1": "rbxassetid://8147077579",
+    "controllerid1": "rbxassetid://8177833682",
+    "side": 1,
+    "sideid1": "rbxassetid://8168415123"
   }
 ]
