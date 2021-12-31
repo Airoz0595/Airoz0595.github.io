@@ -27,6 +27,15 @@
     "sideid1": "rbxassetid://8316435707"
   },
   {
+    "number": 3,
+    "route": "SS",
+    "front": 1,
+    "frontid1": "rbxassetid://8413297780",
+    "controllerid1": "rbxassetid://8413297780",
+    "side": 1,
+    "sideid1": "rbxassetid://8316435707"
+  },
+  {
    "number": 8,
    "route": "72PY",
    "front": 1,
