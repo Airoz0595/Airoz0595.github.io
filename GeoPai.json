@@ -55,34 +55,34 @@
   },
   {
     "number": 6,
-    "route": "272Y",
+    "route": "72Y",
     "front": 1,
-    "frontid1": "rbxassetid://8324102340",
-    "controllerid1": "rbxassetid://8324103953",
+    "frontid1": "rbxassetid://8830517263",
+    "controllerid1": "rbxassetid://8830586521",
     "side": 1,
-    "sideid1": "rbxassetid://8324105489"
+    "sideid1": "rbxassetid://8830561393"
   },
   {
    "number": 7,
-   "route": "272Z",
+   "route": "72Z",
    "front": 1,
-   "frontid1": "rbxassetid://7954888790",
-   "controllerid1": "rbxassetid://8324066036",
+   "frontid1": "rbxassetid://8830544182",
+   "controllerid1": "rbxassetid://8830586931",
    "side": 1,
-   "sideid1": "rbxassetid://8324105489"
+   "sideid1": "rbxassetid://8830561393"
   },
   {
    "number": 8,
-   "route": "72PY",
+   "route": "72AY",
    "front": 1,
-   "frontid1": "rbxassetid://8323236559",
+   "frontid1": "rbxassetid://8830627219,
    "controllerid1": "rbxassetid://8323363538",
    "side": 1,
    "sideid1": "rbxassetid://8324050073"
  },
  {
    "number": 9,
-   "route": "72PZ",
+   "route": "72AZ",
    "front": 1,
    "frontid1": "rbxassetid://8323362408",
    "controllerid1": "rbxassetid://8323364287",
@@ -91,7 +91,7 @@
  },
  {
    "number": 10,
-   "route": "72RY",
+   "route": "72PY",
    "front": 1,
    "frontid1": "rbxassetid://7718638752",
    "controllerid1": "rbxassetid://7718684510",
@@ -100,12 +100,29 @@
  },
  {
    "number": 11,
-   "route": "72RZ",
+   "route": "72PZ",
+   "front": 1,
+   "frontid1": "rbxassetid://7718651639",
+   "controllerid1": "rbxassetid://7718686663",
+   "side": 1,
+   "sideid1": "rbxassetid://7717776444"
+ },
+  {
+   "number": 12,
+   "route": "72PY",
+   "front": 1,
+   "frontid1": "rbxassetid://7718638752",
+   "controllerid1": "rbxassetid://7718684510",
+   "side": 1,
+   "sideid1": "rbxassetid://7717776444"
+ },
+ {
+   "number": 13,
+   "route": "72PZ",
    "front": 1,
    "frontid1": "rbxassetid://7718651639",
    "controllerid1": "rbxassetid://7718686663",
    "side": 1,
    "sideid1": "rbxassetid://7717776444"
  }
-  
 ]
