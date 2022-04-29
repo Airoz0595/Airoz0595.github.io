@@ -56,9 +56,11 @@
   {
     "number": 6,
     "route": "21Y",
-    "front": 1,
-    "frontid1": "rbxassetid://9380975104",
-    "controllerid1": "rbxassetid://9380987802",
+    "front": 2,
+    "frontid1": "rbxassetid://9497207143",
+    "frontid2": "rbxassetid://9497208472",
+    "controllerid1": "rbxassetid://9497223946",
+    "controllerid2": "rbxassetid://9497224827",
     "side": 1,
     "sideid1": "rbxassetid://9380976820"
   },
