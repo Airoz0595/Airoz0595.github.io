@@ -1,0 +1,49 @@
+[
+  {
+    "route": "NIS",
+    "direction": 0,
+    "NextStop": 1,
+    "ChiLED": "rbxassetid://9506879209",
+    "ChiTime": 5,
+    "EngLED": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+    {
+    "route": "NIS",
+    "direction": 0,
+    "NextStop": 1,
+    "ChiLED": "rbxassetid://9506879209",
+    "ChiTime": 5,
+    "EngLED": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+    {
+    "route": "21",
+    "direction": 0,
+    "NextStop": 1,
+    "ChiLED": "rbxassetid://9506879209",
+    "ChiTime": 5,
+    "EngLED": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+   {
+    "route": "21",
+    "direction": 0,
+    "NextStop": 2,
+    "ChiLED": "rbxassetid://9506879209",
+    "ChiTime": 5,
+    "EngLED": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
