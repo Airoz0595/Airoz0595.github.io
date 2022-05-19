@@ -57,7 +57,7 @@
     "number": 6,
     "route": "21Y",
     "front": 1,
-    "frontid1": "rbxassetid://9380975104",
+    "frontid1": "rbxassetid://9668200159",
     "controllerid1": "rbxassetid://9380987802",
     "side": 1,
     "sideid1": "rbxassetid://9380976820"
@@ -66,7 +66,7 @@
     "number": 7,
     "route": "21Z",
     "front": 1,
-    "frontid1": "rbxassetid://9380976028",
+    "frontid1": "rbxassetid://9668210191",
     "controllerid1": "rbxassetid://9380993327",
     "side": 1,
     "sideid1": "rbxassetid://9380976820"
@@ -75,7 +75,7 @@
     "number": 8,
     "route": "23Y",
     "front": 1,
-    "frontid1": "rbxassetid://9381014143",
+    "frontid1": "rbxassetid://9668272203",
     "controllerid1": "rbxassetid://9381019189",
     "side": 1,
     "sideid1": "rbxassetid://9381014686"
@@ -84,7 +84,7 @@
     "number": 9,
     "route": "23Z",
     "front": 1,
-    "frontid1": "rbxassetid://9381342348",
+    "frontid1": "rbxassetid://9668273151",
     "controllerid1": "rbxassetid://9381349263",
     "side": 1,
     "sideid1": "rbxassetid://9381014686"
@@ -93,7 +93,7 @@
     "number": 10,
     "route": "23TY",
     "front": 1,
-    "frontid1": "rbxassetid://9381358424",
+    "frontid1": "rbxassetid://9668303237",
     "controllerid1": "rbxassetid://9381417915",
     "side": 1,
     "sideid1": "rbxassetid://9381414613"
@@ -102,7 +102,7 @@
     "number": 11,
     "route": "23TZ",
     "front": 1,
-    "frontid1": "rbxassetid://9381455916",
+    "frontid1": "rbxassetid://9668304076",
     "controllerid1": "rbxassetid://9381459669",
     "side": 1,
     "sideid1": "rbxassetid://9381414613"
@@ -111,8 +111,8 @@
     "number": 12,
     "route": "26RY",
     "front": 2,
-    "frontid1": "rbxassetid://9494726412",
-    "frontid2": "rbxassetid://9494727340",
+    "frontid1": "rbxassetid://9668316883",
+    "frontid2": "rbxassetid://9668317588",
     "controllerid1": "rbxassetid://9494733122",
     "controllerid2": "rbxassetid://9494734231",
     "side": 1,
@@ -122,7 +122,7 @@
     "number": 13,
     "route": "26RZ",
     "front": 1,
-    "frontid1": "rbxassetid://9381514920",
+    "frontid1": "rbxassetid://9668324564",
     "controllerid1": "rbxassetid://9381518321",
     "side": 1,
     "sideid1": "rbxassetid://9381503586"
