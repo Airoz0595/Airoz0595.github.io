@@ -111,9 +111,11 @@
    {
     "number": 11,
     "route": "23TZ",
-    "front": 1,
-    "frontid1": "rbxassetid://9381455916",
-    "controllerid1": "rbxassetid://9381459669",
+    "front": 2,
+    "frontid1": "rbxassetid://10132122625",
+    "frontid2": "rbxassetid://10132133903",
+    "controllerid1": "rbxassetid://10132150493",
+    "controllerid2": "rbxassetid://10132154602",
     "side": 1,
     "sideid1": "rbxassetid://9381414613"
   },
