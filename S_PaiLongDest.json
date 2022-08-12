@@ -109,8 +109,9 @@
     "front": 1,
     "frontid1": "rbxassetid://9381455916",
     "controllerid1": "rbxassetid://9381459669",
-    "side": 1,
-    "sideid1": "rbxassetid://9381414613"
+    "side": 2,
+    "sideid1": "rbxassetid://10566871003",
+    "sideid2": "rbxassetid://10566872468"
   },
    {
    "number": 12,
