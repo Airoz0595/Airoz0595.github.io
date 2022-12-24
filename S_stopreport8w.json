@@ -701,23 +701,10 @@
     "TimePosition": 0,
     "Notification": 0
   },
-  {
+   {
     "route": "23T",
     "direction": 0,
     "NextStop": 13,
-    "Chi": "氣嶚",
-    "ChiLED": "rbxassetid://11879550053",
-    "ChiTime": 5,
-    "Eng": "AIRO",
-    "EngTime": 5,
-    "SoundId": "rbxassetid://",
-    "TimePosition": 0,
-    "Notification": 0
-  },
-  {
-    "route": "23T",
-    "direction": 0,
-    "NextStop": 14,
     "Chi": "雋富坊",
     "ChiLED": "rbxassetid://11880516012",
     "ChiTime": 5,
@@ -730,7 +717,7 @@
   {
     "route": "23T",
     "direction": 0,
-    "NextStop": 15,
+    "NextStop": 14,
     "Chi": "嘟錦秋小學",
     "ChiLED": "rbxassetid://11880522221",
     "ChiTime": 5,
@@ -743,7 +730,7 @@
   {
     "route": "23T",
     "direction": 0,
-    "NextStop": 16,
+    "NextStop": 15,
     "Chi": "禮雋圍邨總站",
     "ChiLED": "rbxassetid://11879506787",
     "ChiTime": 5,
@@ -756,7 +743,7 @@
   {
     "route": "23T",
     "direction": 0,
-    "NextStop": 17,
+    "NextStop": 16,
     "Chi": "巴士總站",
     "ChiLED": "rbxassetid://11879390489",
     "ChiTime": 5,
@@ -1598,14 +1585,27 @@
     "TimePosition": 0,
     "Notification": 0
   },
-  {
+ {
     "route": "N26",
     "direction": 1,
     "NextStop": 6,
     "Chi": "東燒坪邨",
     "ChiLED": "rbxassetid://11880606736",
     "ChiTime": 5,
-    "Eng": "TUNG SHIU PING\nESTATE",
+    "Eng": "TUNG SHIU PING ESTATE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "N26",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "東燒坪邨燒瑤樓",
+    "ChiLED": "rbxassetid://11880614275",
+    "ChiTime": 5,
+    "Eng": "SHIU YIU HOUSE\nTUNG SHIU PING ESTATE",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -1614,7 +1614,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 7,
+    "NextStop": 8,
     "Chi": "恆馳運動場",
     "ChiLED": "rbxassetid://11879469331",
     "ChiTime": 5,
@@ -1627,7 +1627,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 8,
+    "NextStop": 9,
     "Chi": "空氣花園",
     "ChiLED": "rbxassetid://11879477683",
     "ChiTime": 5,
@@ -1640,7 +1640,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "雋富坊",
     "ChiLED": "rbxassetid://11880516012",
     "ChiTime": 5,
@@ -1653,7 +1653,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "禮雋圍街市",
     "ChiLED": "rbxassetid://11879533142",
     "ChiTime": 5,
@@ -1666,7 +1666,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "禮雋圍商場",
     "ChiLED": "rbxassetid://11885735549",
     "ChiTime": 5,
@@ -1679,7 +1679,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 12,
+    "NextStop": 13,
     "Chi": "禮雋圍邨雋萊樓",
     "ChiLED": "rbxassetid://11879335957",
     "ChiTime": 5,
@@ -1692,7 +1692,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 13,
+    "NextStop": 14,
     "Chi": "蕭瓊村",
     "ChiLED": "rbxassetid://11879328014",
     "ChiTime": 5,
@@ -1705,7 +1705,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 14,
+    "NextStop": 15,
     "Chi": "蕭山豪庭",
     "ChiLED": "rbxassetid://11879289998",
     "ChiTime": 5,
@@ -1718,7 +1718,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 15,
+    "NextStop": 16,
     "Chi": "恆馳東邨貝恆樓",
     "ChiLED": "rbxassetid://11880531635",
     "ChiTime": 5,
@@ -1731,7 +1731,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 16,
+    "NextStop": 17,
     "Chi": "恆馳東邨利恆樓",
     "ChiLED": "rbxassetid://11880542996",
     "ChiTime": 5,
@@ -1744,7 +1744,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 17,
+    "NextStop": 18,
     "Chi": "恆馳火車站",
     "ChiLED": "rbxassetid://11880570560",
     "ChiTime": 5,
@@ -1757,7 +1757,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 18,
+    "NextStop": 19,
     "Chi": "氡漕灣總站",
     "ChiLED": "rbxassetid://11880599089",
     "ChiTime": 5,
@@ -1770,7 +1770,7 @@
   {
     "route": "N26",
     "direction": 1,
-    "NextStop": 19,
+    "NextStop": 20,
     "Chi": "巴士總站",
     "ChiLED": "rbxassetid://11879390489",
     "ChiTime": 5,
@@ -1781,5 +1781,7 @@
     "Notification": 1
   }
  ]
+
+
 
 
