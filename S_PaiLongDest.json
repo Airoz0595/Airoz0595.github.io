@@ -148,9 +148,11 @@
    {
     "number": 15,
     "route": "26TSY",
-    "front": 1,
-    "frontid1": "rbxassetid://11904564147",
-    "controllerid1": "rbxassetid://11904578571",
+    "front": 2,
+    "frontid1": "rbxassetid://11906351241",
+    "frontid2": "rbxassetid://11906352713",
+    "controllerid1": "rbxassetid://11906354181",
+    "controllerid2": "rbxassetid://11906355457",
     "side": 2,
     "sideid1": "rbxassetid://11904568325",
     "sideid2": "rbxassetid://11904569262"
