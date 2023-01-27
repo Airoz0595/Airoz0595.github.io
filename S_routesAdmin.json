@@ -61,6 +61,18 @@
    },
    {
       "number":5,
+      "route":"25T",
+      "destZ":"恆馳火車站",
+      "destY":"菁松冠",
+      "maxPZ":"1",
+      "priceZ1":"4.0",
+      "halfpriceZ1":"2.0",
+      "maxPY":"1",
+      "priceY1":"4.0",
+      "halfpriceY1":"2.0"
+   },
+   {
+      "number":5,
       "route":"26R",
       "destZ":"恆馳碼頭",
       "destY":"氡漕灣",
