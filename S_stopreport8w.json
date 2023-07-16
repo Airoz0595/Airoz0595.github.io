@@ -532,6 +532,357 @@
     "TimePosition": 0,
     "Notification": 1
   },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭空氣運輸",
+    "ChiLED": "rbxassetid://9713699907",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭空氣運輸",
+    "ChiLED": "rbxassetid://9713699907",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "禮雋圍邨停車場",
+    "ChiLED": "rbxassetid://11879520749",
+    "ChiTime": 5,
+    "Eng": "LAI CHUN WAI\nCAR PARK",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "乜膠街",
+    "ChiLED": "rbxassetid://11880491073",
+    "ChiTime": 5,
+    "Eng": "MUT GAU STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "恆洩路",
+    "ChiLED": "rbxassetid://11879358893",
+    "ChiTime": 5,
+    "Eng": "HANG SIT ROAD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "氣嶚",
+    "ChiLED": "rbxassetid://11879550053",
+    "ChiTime": 5,
+    "Eng": "AIRO",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "恆馳運動場",
+    "ChiLED": "rbxassetid://11879469331",
+    "ChiTime": 5,
+    "Eng": "HANG CHI SPORTS GROUND",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "恆馳眼科醫院",
+    "ChiLED": "rbxassetid://11879463069",
+    "ChiTime": 5,
+    "Eng": "HANG CHI\nEYE HOSPITAL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "亨順商業中心",
+    "ChiLED": "rbxassetid://14081039448",
+    "ChiTime": 5,
+    "Eng": " HENG SHUN\nCOMMERCIAL CENTRE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "澪弦大廈",
+    "ChiLED": "rbxassetid://14081145649",
+    "ChiTime": 5,
+    "Eng": " LING YIN BUILDING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "復星工業大廈",
+    "ChiLED": "rbxassetid://11879452900",
+    "ChiTime": 5,
+    "Eng": "FUK SING\nINDUSTRIAL BUILDING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "工廠街",
+    "ChiLED": "rbxassetid://11879457719",
+    "ChiTime": 5,
+    "Eng": "KUNG CHEONG STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 13,
+    "Chi": "工廠街",
+    "ChiLED": "rbxassetid://11879457719",
+    "ChiTime": 5,
+    "Eng": "KUNG CHEONG STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 14,
+    "Chi": "恆發街",
+    "ChiLED": "rbxassetid://14081147906",
+    "ChiTime": 5,
+    "Eng": "HANG FAT STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 15,
+    "Chi": "恆馳火車站總站",
+    "ChiLED": "rbxassetid://12284584048",
+    "ChiTime": 5,
+    "Eng": "HANG CHI\nRAILWAY STN B/T",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 0,
+    "NextStop": 16,
+    "Chi": "巴士總站",
+    "ChiLED": "rbxassetid://11879390489",
+    "ChiTime": 5,
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
+ {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭空氣運輸",
+    "ChiLED": "rbxassetid://9713699907",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭空氣運輸",
+    "ChiLED": "rbxassetid://9713699907",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 3,
+    "Chi": "復星工業大廈",
+    "ChiLED": "rbxassetid://11879452900",
+    "ChiTime": 5,
+    "Eng": "FUK SING\nINDUSTRIAL BUILDING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+ {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 4,
+    "Chi": "工廠街",
+    "ChiLED": "rbxassetid://11879457719",
+    "ChiTime": 5,
+    "Eng": "KUNG CHEONG STREET",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 5,
+    "Chi": "恆馳眼科醫院",
+    "ChiLED": "rbxassetid://11879463069",
+    "ChiTime": 5,
+    "Eng": "HANG CHI\nEYE HOSPITAL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 6,
+    "Chi": "恆馳運動場",
+    "ChiLED": "rbxassetid://11879469331",
+    "ChiTime": 5,
+    "Eng": "HANG CHI SPORTS GROUND",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 7,
+    "Chi": "空氣花園",
+    "ChiLED": "rbxassetid://11879477683",
+    "ChiTime": 5,
+    "Eng": "AIR GARDEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 8,
+    "Chi": "雋富坊",
+    "ChiLED": "rbxassetid://11880516012",
+    "ChiTime": 5,
+    "Eng": "CHUN FU SQUARE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 9,
+    "Chi": "嘟錦秋小學",
+    "ChiLED": "rbxassetid://11880522221",
+    "ChiTime": 5,
+    "Eng": "DOO KAM CHAU\nPRIMARY SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 10,
+    "Chi": "禮雋圍邨總站",
+    "ChiLED": "rbxassetid://11879506787",
+    "ChiTime": 5,
+    "Eng": "LAI CHUN WAI\nESTATE B/T",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23A",
+    "direction": 1,
+    "NextStop": 11,
+    "Chi": "巴士總站",
+    "ChiLED": "rbxassetid://11879390489",
+    "ChiTime": 5,
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
 {
     "route": "23T",
     "direction": 0,
@@ -727,6 +1078,162 @@
     "TimePosition": 0,
     "Notification": 1
   },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 1,
+    "Chi": "歡迎乘搭空氣運輸",
+    "ChiLED": "rbxassetid://9713699907",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 2,
+    "Chi": "歡迎乘搭空氣運輸",
+    "ChiLED": "rbxassetid://9713699907",
+    "ChiTime": 5,
+    "Eng": "WELCOME ONBOARD",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 3,
+    "Chi": "曾空書院",
+    "ChiLED": "rbxassetid://14081242021",
+    "ChiTime": 5,
+    "Eng": "TSANG HUNG COLLEGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "尚村",
+    "ChiLED": "rbxassetid://14081237288",
+    "ChiTime": 5,
+    "Eng": "SHEUNG TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 5,
+    "Chi": "郝家村",
+    "ChiLED": "rbxassetid://14081243831",
+    "ChiTime": 5,
+    "Eng": "KOK KA TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 6,
+    "Chi": "尚村公園",
+    "ChiLED": "rbxassetid://14081238845",
+    "ChiTime": 5,
+    "Eng": "SHEUNG TSUEN PARK",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 7,
+    "Chi": "吳軾駕駛學院",
+    "ChiLED": "rbxassetid://14081155311",
+    "ChiTime": 5,
+    "Eng": "NG SIK\nDRIVING SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 8,
+    "Chi": "恆馳火車站",
+    "ChiLED": "rbxassetid://11880570560",
+    "ChiTime": 5,
+    "Eng": "HANG CHI\nRAILWAY STATION",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 9,
+    "Chi": "吳軾駕駛學院",
+    "ChiLED": "rbxassetid://14081155311",
+    "ChiTime": 5,
+    "Eng": "NG SIK\nDRIVING SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 10,
+    "Chi": "尚村",
+    "ChiLED": "rbxassetid://14081237288",
+    "ChiTime": 5,
+    "Eng": "SHEUNG TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 11,
+    "Chi": "菁松山邨總站",
+    "ChiLED": "rbxassetid://14081234507",
+    "ChiTime": 5,
+    "Eng": "TSING CHONG\nHILL ESTATE B/T",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "25T",
+    "direction": 0,
+    "NextStop": 12,
+    "Chi": "巴士總站",
+    "ChiLED": "rbxassetid://11879390489",
+    "ChiTime": 5,
+    "Eng": "THANK YOU\nFOR TRAVELLING",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 1
+  },
   {
     "route": "26R",
     "direction": 0,
@@ -1195,10 +1702,23 @@
     "TimePosition": 0,
     "Notification": 0
   },
-  {
+{
     "route": "26T",
     "direction": 1,
     "NextStop": 9,
+    "Chi": "吳軾駕駛學院",
+    "ChiLED": "rbxassetid://14081155311",
+    "ChiTime": 5,
+    "Eng": "NG SIK\nDRIVING SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "26T",
+    "direction": 1,
+    "NextStop": 10,
     "Chi": "氡漕灣總站",
     "ChiLED": "rbxassetid://11880599089",
     "ChiTime": 5,
@@ -1211,7 +1731,7 @@
   {
     "route": "26T",
     "direction": 1,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "巴士總站",
     "ChiLED": "rbxassetid://11879390489",
     "ChiTime": 5,
@@ -1222,7 +1742,7 @@
     "Notification": 1
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
     "NextStop": 1,
     "Chi": "歡迎乘搭空氣運輸",
@@ -1235,7 +1755,7 @@
     "Notification": 0
   },
  {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
     "NextStop": 2,
     "Chi": "歡迎乘搭空氣運輸",
@@ -1247,10 +1767,37 @@
     "TimePosition": 0,
     "Notification": 0
   },
- {
-    "route": "N26",
+{
+    "route": "N25",
     "direction": 0,
     "NextStop": 3,
+    "Chi": "曾空書院",
+    "ChiLED": "rbxassetid://14081242021",
+    "ChiTime": 5,
+    "Eng": "TSANG HUNG COLLEGE",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "N25",
+    "direction": 0,
+    "NextStop": 4,
+    "Chi": "尚村",
+    "ChiLED": "rbxassetid://14081237288",
+    "ChiTime": 5,
+    "Eng": "SHEUNG TSUEN",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+
+ {
+    "route": "N25",
+    "direction": 0,
+    "NextStop": 5,
     "Chi": "恆馳火車站",
     "ChiLED": "rbxassetid://11880570560",
     "ChiTime": 5,
@@ -1261,9 +1808,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 4,
+    "NextStop": 6,
     "Chi": "恆馳東邨思恆樓",
     "ChiLED": "rbxassetid://11879251526",
     "ChiTime": 5,
@@ -1274,9 +1821,9 @@
     "Notification": 0
   },
  {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 5,
+    "NextStop": 7,
     "Chi": "蕭山豪庭",
     "ChiLED": "rbxassetid://11879289998",
     "ChiTime": 5,
@@ -1287,9 +1834,9 @@
     "Notification": 0
   },
    {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 6,
+    "NextStop": 8,
     "Chi": "蕭瓊村",
     "ChiLED": "rbxassetid://11879328014",
     "ChiTime": 5,
@@ -1300,9 +1847,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 7,
+    "NextStop": 9,
     "Chi": "禮雋圍邨禮儀樓",
     "ChiLED": "rbxassetid://11879487689",
     "ChiTime": 5,
@@ -1313,9 +1860,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 8,
+    "NextStop": 10,
     "Chi": "禮雋圍街市",
     "ChiLED": "rbxassetid://11879533142",
     "ChiTime": 5,
@@ -1326,9 +1873,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 9,
+    "NextStop": 11,
     "Chi": "雋發街",
     "ChiLED": "rbxassetid://11843952327",
     "ChiTime": 5,
@@ -1339,9 +1886,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 10,
+    "NextStop": 12,
     "Chi": "嘟錦秋小學",
     "ChiLED": "rbxassetid://11880522221",
     "ChiTime": 5,
@@ -1352,9 +1899,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 11,
+    "NextStop": 13,
     "Chi": "恆洩路",
     "ChiLED": "rbxassetid://11879358893",
     "ChiTime": 5,
@@ -1365,9 +1912,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 12,
+    "NextStop": 14,
     "Chi": "氣嶚",
     "ChiLED": "rbxassetid://11879550053",
     "ChiTime": 5,
@@ -1378,9 +1925,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 13,
+    "NextStop": 15,
     "Chi": "恆馳運動場",
     "ChiLED": "rbxassetid://11879469331",
     "ChiTime": 5,
@@ -1391,9 +1938,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 14,
+    "NextStop": 16,
     "Chi": "東燒坪邨",
     "ChiLED": "rbxassetid://11880606736",
     "ChiTime": 5,
@@ -1404,9 +1951,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 15,
+    "NextStop": 17,
     "Chi": "恆燒路",
     "ChiLED": "rbxassetid://11885725846",
     "ChiTime": 5,
@@ -1417,9 +1964,9 @@
     "Notification": 0
   },
  {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 16,
+    "NextStop": 18,
     "Chi": "東燒坪邨燒理樓",
     "ChiLED": "rbxassetid://11880463561",
     "ChiTime": 5,
@@ -1430,9 +1977,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 17,
+    "NextStop": 19,
     "Chi": "恆馳醫院",
     "ChiLED": "rbxassetid://11880631583",
     "ChiTime": 5,
@@ -1443,9 +1990,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 18,
+    "NextStop": 20,
     "Chi": "恆馳碼頭總站",
     "ChiLED": "rbxassetid://11880586331",
     "ChiTime": 5,
@@ -1456,9 +2003,9 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 0,
-    "NextStop": 19,
+    "NextStop": 21,
     "Chi": "巴士總站",
     "ChiLED": "rbxassetid://11879390489",
     "ChiTime": 5,
@@ -1469,7 +2016,7 @@
     "Notification": 1
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 1,
     "Chi": "歡迎乘搭空氣運輸",
@@ -1482,7 +2029,7 @@
     "Notification": 0
   },
  {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 2,
     "Chi": "歡迎乘搭空氣運輸",
@@ -1495,7 +2042,7 @@
     "Notification": 0
   },
  {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 3,
     "Chi": "恆馳醫院",
@@ -1508,7 +2055,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 4,
     "Chi": "東燒坪邨燒理樓",
@@ -1521,7 +2068,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 5,
     "Chi": "恆燒路",
@@ -1534,7 +2081,7 @@
     "Notification": 0
   },
  {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 6,
     "Chi": "東燒坪邨",
@@ -1547,7 +2094,7 @@
     "Notification": 0
   },
  {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 7,
     "Chi": "東燒坪邨燒瑤樓",
@@ -1560,7 +2107,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 8,
     "Chi": "恆馳運動場",
@@ -1573,7 +2120,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 9,
     "Chi": "空氣花園",
@@ -1586,7 +2133,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 10,
     "Chi": "雋富坊",
@@ -1599,7 +2146,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 11,
     "Chi": "禮雋圍街市",
@@ -1612,7 +2159,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 12,
     "Chi": "禮雋圍商場",
@@ -1625,7 +2172,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 13,
     "Chi": "禮雋圍邨雋萊樓",
@@ -1638,7 +2185,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 14,
     "Chi": "蕭瓊村",
@@ -1651,7 +2198,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 15,
     "Chi": "蕭山豪庭",
@@ -1664,7 +2211,7 @@
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 16,
     "Chi": "恆馳東邨貝恆樓",
@@ -1676,8 +2223,9 @@
     "TimePosition": 0,
     "Notification": 0
   },
+
   {
-    "route": "N26",
+    "route": "N25",
     "direction": 1,
     "NextStop": 17,
     "Chi": "恆馳火車站",
@@ -1689,23 +2237,49 @@
     "TimePosition": 0,
     "Notification": 0
   },
-  {
-    "route": "N26",
+{
+    "route": "N25",
     "direction": 1,
     "NextStop": 18,
-    "Chi": "氡漕灣總站",
-    "ChiLED": "rbxassetid://11880599089",
+    "Chi": "吳軾駕駛學院",
+    "ChiLED": "rbxassetid://14081155311",
     "ChiTime": 5,
-    "Eng": "RADON BAY B/T",
+    "Eng": "NG SIK\nDRIVING SCHOOL",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+{
+    "route": "N25",
+    "direction": 1,
+    "NextStop": 19,
+    "Chi": "尚村",
+    "ChiLED": "rbxassetid://14081237288",
+    "ChiTime": 5,
+    "Eng": "SHEUNG TSUEN",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
     "Notification": 0
   },
   {
-    "route": "N26",
+    "route": "N25",
+    "direction": 0,
+    "NextStop": 20,
+    "Chi": "菁松山邨總站",
+    "ChiLED": "rbxassetid://14081234507",
+    "ChiTime": 5,
+    "Eng": "TSING CHONG\nHILL ESTATE B/T",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "N25",
     "direction": 1,
-    "NextStop": 19,
+    "NextStop": 21,
     "Chi": "巴士總站",
     "ChiLED": "rbxassetid://11879390489",
     "ChiTime": 5,
