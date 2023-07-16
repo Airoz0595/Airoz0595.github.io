@@ -12,19 +12,20 @@
     "number": 1,
     "route": "NIS",
     "front": 1,
-    "frontid1": "rbxassetid://8316326121",
-    "controllerid1": "rbxassetid://8316327326",
-    "side": 1,
-    "sideid1": "rbxassetid://8316435707"
+    "frontid1": "rbxassetid://14084250934",
+    "controllerid1": "rbxassetid://14084279786",
+    "side": 2,
+    "sideid1": "rbxassetid://14084250934",
+    "sideid2": "rbxassetid://14084251978"
   },
   {
     "number": 2,
     "route": "OT",
     "front": 1,
-    "frontid1": "rbxassetid://8316329811",
-    "controllerid1": "rbxassetid://8316331746",
+    "frontid1": "rbxassetid://14084260651",
+    "controllerid1": "rbxassetid://14084281344",
     "side": 1,
-    "sideid1": "rbxassetid://8316435707"
+    "sideid1": "rbxassetid://14084260651"
   },
   {
     "number": 3,
