@@ -109,8 +109,10 @@
       "halfpriceZ1":"4.5",
       "priceZ2":"5.0",
       "halfpriceZ2":"2.5",
-      "maxPY":"1",
+      "maxPY":"2",
       "priceY1":"9.0",
-      "halfpriceY1":"4.5"
+      "halfpriceY1":"4.5",
+      "priceY2":"5.0",
+      "halfpriceY2":"2.5"
    }
 ]
