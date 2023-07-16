@@ -26,8 +26,8 @@
    {
       "number":2,
       "route":"23",
-      "destZ":"禮雋圍邨",
-      "destY":"恆馳火車站",
+      "destZ":"恆馳火車站",
+      "destY":"禮雋圍邨",
       "maxPZ":"1",
       "priceZ1":"3.8",
       "halfpriceZ1":"1.9",
@@ -74,8 +74,8 @@
    {
       "number":6,
       "route":"26R",
-      "destZ":"氡漕灣",
-      "destY":"恆馳碼頭",
+      "destZ":"恆馳碼頭",
+      "destY":"氡漕灣",
       "maxPZ":"1",
       "priceZ1":"8.8",
       "halfpriceZ1":"4.4",
@@ -86,8 +86,8 @@
     {
       "number":6,
       "route":"26T",
-      "destZ":"氡漕灣",
-      "destY":"恆馳碼頭",
+      "destZ":"恆馳碼頭",
+      "destY":"氡漕灣",
       "maxPZ":"2",
       "priceZ1":"6.5",
       "halfpriceZ1":"3.3",
@@ -102,8 +102,8 @@
     {
       "number":7,
       "route":"N25",
-      "destZ":"菁松山邨",
-      "destY":"恆馳碼頭",
+      "destZ":"恆馳碼頭",
+      "destY":"菁松山邨",
       "maxPZ":"2",
       "priceZ1":"9.0",
       "halfpriceZ1":"4.5",
@@ -112,7 +112,7 @@
       "maxPY":"2",
       "priceY1":"9.0",
       "halfpriceY1":"4.5",
-      "priceY2":"5.0",
-      "halfpriceY2":"2.5"
+      "priceY2":"9.0",
+      "halfpriceY2":"4.5"
    }
 ]
