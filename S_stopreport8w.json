@@ -2265,7 +2265,7 @@
   },
   {
     "route": "N25",
-    "direction": 0,
+    "direction": 1,
     "NextStop": 20,
     "Chi": "菁松山邨總站",
     "ChiLED": "rbxassetid://14081234507",
