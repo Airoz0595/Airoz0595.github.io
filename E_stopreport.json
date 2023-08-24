@@ -63,7 +63,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 0
   },
   {
     "route": "31",
@@ -141,7 +141,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 0
   },
  {
     "route": "31",
@@ -150,7 +150,7 @@
     "Chi": "沙嶺圍驗車中心",
     "ChiLED": "rbxassetid://14548799564",
     "ChiTime": 5,
-    "Eng": "SHA LENG WAI\nVEH. EXAMINATION CTR.",
+    "Eng": "SHA LENG WAI\nVEH. EXAM. CTR.",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -187,7 +187,7 @@
     "direction": 0,
     "NextStop": 13,
     "Chi": "星街總站",
-    "ChiLED": "rbxassetid://14548801118",
+    "ChiLED": "rbxassetid://14548763028",
     "ChiTime": 5,
     "Eng": "STAR STREET B/T",
     "EngTime": 5,
@@ -281,7 +281,7 @@
     "Chi": "沙嶺圍驗車中心",
     "ChiLED": "rbxassetid://14548799564",
     "ChiTime": 5,
-    "Eng": "SHA LENG WAI\nVEH. EXAMINATION CTR.",
+    "Eng": "SHA LENG WAI\nVEH. EXAM. CTR.",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -805,7 +805,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 0
+    "Notification": 1
   },
   {
     "route": "32U",
@@ -837,6 +837,19 @@
     "route": "32U",
     "direction": 1,
     "NextStop": 18,
+    "Chi": "大新碼頭總站",
+    "ChiLED": "rbxassetid://14548676060",
+    "ChiTime": 5,
+    "Eng": "TAI SUN\nFERRY PIER B/T",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "32U",
+    "direction": 1,
+    "NextStop": 19,
     "Chi": "巴士總站",
     "ChiLED": "rbxassetid://9507612587",
     "ChiTime": 5,
