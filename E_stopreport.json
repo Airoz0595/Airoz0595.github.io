@@ -723,7 +723,7 @@
     "Chi": "哈特蘭大球場",
     "ChiLED": "rbxassetid://14548802689",
     "ChiTime": 5,
-    "Eng": "THE\nHARTLAND STADIUM,
+    "Eng": "THE\nHARTLAND STADIUM",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -846,3 +846,4 @@
     "TimePosition": 0,
     "Notification": 1
   }
+]
