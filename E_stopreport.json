@@ -305,7 +305,7 @@
     "direction": 1,
     "NextStop": 8,
     "Chi": "沙嶺圍邨",
-    "ChiLED": "rbxassetid://14548798701",
+    "ChiLED": "rbxassetid://14548798116",
     "ChiTime": 5,
     "Eng": "SHA LENG WAI\nESTATE",
     "EngTime": 5,
@@ -454,7 +454,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 0
   },
   {
     "route": "32U",
@@ -799,13 +799,13 @@
     "direction": 1,
     "NextStop": 15,
     "Chi": "豬銀總行大廈",
-    "ChiLED": "rbxassetid://14548933669",
+    "ChiLED": "rbxassetid://14548938590",
     "ChiTime": 5,
     "Eng": "TGBC\nMAIN BUILDING",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 0
   },
   {
     "route": "32U",
