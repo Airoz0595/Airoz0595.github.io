@@ -259,7 +259,7 @@
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
-    "Notification": 1
+    "Notification": 0
   },
   {
     "route": "31",
@@ -305,7 +305,7 @@
     "direction": 1,
     "NextStop": 8,
     "Chi": "沙嶺圍邨",
-    "ChiLED": "rbxassetid://14548798116",
+    "ChiLED": "rbxassetid://14548798701",
     "ChiTime": 5,
     "Eng": "SHA LENG WAI\nESTATE",
     "EngTime": 5,
@@ -860,3 +860,5 @@
     "Notification": 1
   }
 ]
+
+
