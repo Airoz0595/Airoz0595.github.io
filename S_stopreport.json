@@ -133,10 +133,10 @@
     "route": "21",
     "direction": 0,
     "NextStop": 9,
-    "Chi": "恆豐路",
-    "ChiLED": "rbxassetid://9506256834",
+    "Chi": "恆初街",
+    "ChiLED": "rbxassetid://108796124322888",
     "ChiTime": 5,
-    "Eng": "HANG FUNG ROAD",
+    "Eng": "HANG CHO STREET",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -277,10 +277,10 @@
     "route": "23",
     "direction": 0,
     "NextStop": 6,
-    "Chi": "恆豐路",
-    "ChiLED": "rbxassetid://9506256834",
+    "Chi": "恆初街",
+    "ChiLED": "rbxassetid://108796124322888",
     "ChiTime": 5,
-    "Eng": "HANG FUNG ROAD",
+    "Eng": "HANG CHO STREET",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -447,10 +447,10 @@
     "route": "23",
     "direction": 1,
     "NextStop": 7,
-    "Chi": "恆豐路",
-    "ChiLED": "rbxassetid://9506256834",
+    "Chi": "恆初街",
+    "ChiLED": "rbxassetid://108796124322888",
     "ChiTime": 5,
-    "Eng": "HANG FUNG ROAD",
+    "Eng": "HANG CHO STREET",
     "EngTime": 5,
     "SoundId": "rbxassetid://",
     "TimePosition": 0,
@@ -460,6 +460,19 @@
     "route": "23",
     "direction": 1,
     "NextStop": 8,
+    "Chi": "凱園",
+    "ChiLED": "rbxassetid://82438343736975",
+    "ChiTime": 5,
+    "Eng": "THE VICTORIA",
+    "EngTime": 5,
+    "SoundId": "rbxassetid://",
+    "TimePosition": 0,
+    "Notification": 0
+  },
+  {
+    "route": "23",
+    "direction": 1,
+    "NextStop": 9,
     "Chi": "德爾塔廣場",
     "ChiLED": "rbxassetid://9506807945",
     "ChiTime": 5,
@@ -472,7 +485,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 9,
+    "NextStop": 10,
     "Chi": "禮雋圍體育館",
     "ChiLED": "rbxassetid://9506820876",
     "ChiTime": 5,
@@ -485,7 +498,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 10,
+    "NextStop": 11,
     "Chi": "禮雋圍邨雋萊樓",
     "ChiLED": "rbxassetid://9506816652",
     "ChiTime": 5,
@@ -498,7 +511,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 11,
+    "NextStop": 12,
     "Chi": "禮雋圍邨禮儀樓",
     "ChiLED": "rbxassetid://9506818134",
     "ChiTime": 5,
@@ -511,7 +524,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 12,
+    "NextStop": 13,
     "Chi": "禮雋圍邨總站",
     "ChiLED": "rbxassetid://9614061467",
     "ChiTime": 5,
@@ -524,7 +537,7 @@
   {
     "route": "23",
     "direction": 1,
-    "NextStop": 13,
+    "NextStop": 14,
     "Chi": "巴士總站",
     "ChiLED": "rbxassetid://9507612587",
     "ChiTime": 5,
@@ -2290,3 +2303,6 @@
     "Notification": 1
   }
  ]
+
+
+
