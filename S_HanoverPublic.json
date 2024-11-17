@@ -110,11 +110,9 @@
      {
     "number": 11,
     "route": "24Y",
-    "front": 2,
+    "front": 1,
     "frontid1": "rbxassetid://17331604266",
-    "frontid2": "rbxassetid://17331605440",
-    "controllerid1": "rbxassetid://13980875411",
-    "controllerid2": "rbxassetid://13980875411",
+    "controllerid1": "rbxassetid://17331639664",
     "side": 2,
     "sideid1": "rbxassetid://17331604266",
     "sideid2": "rbxassetid://17331605440"
