@@ -37,6 +37,18 @@
    },
    {
       "number":3,
+      "route":"32R",
+      "destZ":"沙怡 BORBORLAND",
+      "destY":"蔡村許願樹",
+      "maxPZ":"1",
+      "priceZ1":"5.5",
+      "halfpriceZ1":"2.8",
+      "maxPY":"1",
+      "priceY1":"5.5",
+      "halfpriceY1":"2.8"
+   },
+   {
+      "number":4,
       "route":"32U",
       "destZ":"沙怡隧道轉車站",
       "destY":"豬怕市中心",
@@ -52,7 +64,7 @@
       "halfpriceY2":"2.0"
    },
    {
-      "number":4,
+      "number":5,
       "route":"32US",
       "destZ":"馬嶺站",
       "destY":"馬嶺站",
@@ -68,7 +80,7 @@
       "halfpriceY2":"2.0"
    },
    {
-      "number":5,
+      "number":6,
       "route":"32X",
       "destZ":"沙怡隧道轉車站",
       "destY":"大新碼頭",
