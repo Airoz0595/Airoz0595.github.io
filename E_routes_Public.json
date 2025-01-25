@@ -53,6 +53,22 @@
    },
    {
       "number":4,
+      "route":"32US",
+      "destZ":"馬嶺站",
+      "destY":"馬嶺站",
+      "maxPZ":"2",
+      "priceZ1":"5.2",
+      "halfpriceZ1":"2.6",
+      "priceZ2":"4.0",
+      "halfpriceZ2":"2.0",
+      "maxPY":"2",
+      "priceY1":"5.2",
+      "halfpriceY1":"2.6",
+      "priceY2":"4.0",
+      "halfpriceY2":"2.0"
+   },
+   {
+      "number":5,
       "route":"32X",
       "destZ":"沙怡隧道轉車站",
       "destY":"大新碼頭",
